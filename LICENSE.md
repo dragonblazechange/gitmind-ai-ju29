@@ -1,4 +1,4 @@
-# 
+# Ultimate GitMind script. Download and install with docker-support and one-click-install — fast, secure, and easy to use.
 
 
 
